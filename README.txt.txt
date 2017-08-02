@@ -4,14 +4,14 @@ Eye implants for 3D printing
 Nicholas Lockhart
 working on behalf of Sonam Maghera
 
-All prototypes are made by Nicholas
-with exception of top half
-Top half created by alavanimation
-on thingiverse https://www.thingiverse.com/thing:1193457
-using under lisence
-Creative commons - attributation - no deravartions
+For research purposes and patient education
 
-Creative Commons license - attributation
+All prototypes are made by Nicholas Lockhart AKA Nirlo
+
+
+CC BY-NC-SA
+Nicholas Lockhart
+Nirlo
 Aug 1st 2017
 
 ***************************************************
